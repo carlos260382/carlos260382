@@ -1,9 +1,3 @@
-### Hi there 👋, my name is Carlos
-![](https://w7.pngwing.com/pngs/846/561/png-transparent-man-using-computer-web-development-mobile-app-development-software-developer-web-developer-programmer-developer-web-design-expert-mobile-app-development-thumbnail.png)
-
-
-
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋, my name is Carlos <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Full Stack Web Developer  
