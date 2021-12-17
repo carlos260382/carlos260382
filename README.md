@@ -29,6 +29,7 @@ const carlos = {
             native: ["React"]
         },
         databases: ["mongo", "postgreSQL", "sqlite"],
+        versionControl: ["git(HubFlow)"]
     };
 ```
 
