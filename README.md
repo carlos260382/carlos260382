@@ -11,7 +11,7 @@
 
 Feel free to drop me a message if you'd like to meet up or have a chat andres260382@gmail.com
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Allow me to share a bit more about myself...  
 
 ```javascript
 const carlos = {
