@@ -7,9 +7,9 @@
 [![Linkedin: Carlos](https://img.shields.io/badge/-carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos260382/)](https://www.linkedin.com/in/carlos260382/)
 
 
-### 📫 Like to meet me?
+### 📫 Want to connect with me?
 
-Write me if you want to meet me andres260382@gmail.com
+Feel free to drop me a message if you'd like to meet up or have a chat andres260382@gmail.com
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
