@@ -16,9 +16,12 @@ Feel free to drop me a message if you'd like to meet up or have a chat andres260
 ```javascript
 const carlos = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "TypeScript ],
-    askMeAbout: ["web dev", "tech", "app dev", ],
+    code: ["python", "Javascript", "TypeScript ],
+    askMeAbout: ["Robotic Process Automation (RPA) Developer", "web dev", "app dev", ],
     technologies: {
+        RPA: {
+            Python, Rocketbot
+        }
         frontEnd: {
             js: ["HTML", "CSS", "React", "Redux"],
         },
