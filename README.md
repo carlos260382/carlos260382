@@ -1,20 +1,43 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋, I'm Carlos <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>RPA Automation Developer with Python • Systems Engineer • AI Agents &amp; LLMs • Data &amp; Cloud (AWS) • Full Stack Web Developer
-</em></p>
+<h1 align="center">Carlos Andrés Loaiza C.</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/CarlosAndrsLoa7?label=Follow)](https://twitter.com/intent/follow?screen_name=CarlosAndrsLoa7)
-[![Linkedin: Carlos](https://img.shields.io/badge/-carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos260382/)](https://www.linkedin.com/in/carlos260382/)
+<h3 align="center">
+RPA Automation Developer • Systems Engineer • AI Agents &amp; LLMs • Data &amp; Cloud (AWS)
+</h3>
 
-### 🏆 A bit about me
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos260382/"><img src="https://img.shields.io/badge/LinkedIn-carlos260382-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:andres260382@gmail.com"><img src="https://img.shields.io/badge/Email-andres260382@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/carlos260382"><img src="https://img.shields.io/badge/GitHub-carlos260382-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://twitter.com/CarlosAndrsLoa7"><img src="https://img.shields.io/badge/Twitter-@CarlosAndrsLoa7-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
+</p>
+
+---
+
+### 🏆 About me
 
 Systems Engineer and RPA Automation Developer with solid experience designing automation architectures, integrating APIs, building data pipelines (ETL), and deploying AI/LLM conversational agents. Specialized in requirements gathering, process documentation, and delivering scalable cloud solutions on AWS for clients in the food, logistics, technology, and healthcare sectors.
 
-### 📫 Want to connect with me?
+---
 
-Feel free to drop me a message if you'd like to meet up or have a chat 👉 andres260382@gmail.com
+### 🧰 Core Stack
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Allow me to share a bit more about myself...  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,react,redux,html,css,aws,docker,postgres,mysql,mongodb,git,github&perline=8" alt="Core stack"/>
+</p>
+
+### 🤖 Specialized Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RPA-Rocketbot-1F6FEB?style=for-the-badge&logo=robotframework&logoColor=white" alt="RPA Rocketbot"/>
+  <img src="https://img.shields.io/badge/AI%20Agents%20%26%20LLMs-Conversational%20Bots-6E40C9?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents & LLMs"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Lambda%20%7C%20CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud AWS"/>
+  <img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Data-Scikit--learn%20%7C%20ETL-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science"/>
+</p>
+
+---
+
+### 💼 A bit more about me
 
 ```javascript
 const carlos = {
@@ -49,6 +72,8 @@ const carlos = {
 };
 ```
 
+---
+
 ### 🛠️ Technical Skills
 
 | Area | Stack |
@@ -61,6 +86,8 @@ const carlos = {
 | **Databases** | PostgreSQL, MySQL, SQL Server, MongoDB |
 | **Methodologies** | Scrum, process mapping & optimization |
 
+---
+
 ### 🚀 Featured Projects
 
 - **WhatsApp LLM Chatbots** — Conversational chatbots integrated via the WhatsApp API (B2Chat) for healthcare clients, managing product sales requests.
@@ -69,9 +96,14 @@ const carlos = {
 - **Logistics Process Automation** — RPA bots for shipment tracking, document management, and import/export processes.
 - **Demand Prediction & Data Intelligence** — Predictive models from data preprocessing with Scikit-learn to production integration with AWS Forecast and Python automation.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+---
+
+### 📫 Want to connect with me?
+
+Feel free to drop me a message if you'd like to meet up or have a chat 👉 **andres260382@gmail.com**
 
 ---
+
 <!--START_SECTION:waka-->
 
 I am an RPA Automation Developer and Full Stack Web Developer, with the ability to quickly adapt to work environments and new technologies.
